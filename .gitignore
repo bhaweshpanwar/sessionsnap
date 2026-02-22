@@ -1,0 +1,14 @@
+sessionsnap
+*.o
+*.a
+*.so
+*.out
+*.log
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+compile_commands.json
